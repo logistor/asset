@@ -1,2 +1,2 @@
 # asset
-Solidity code of managing digital assets
+Solidity code for managing digital assets.
